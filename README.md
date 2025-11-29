@@ -28,7 +28,7 @@
 
 ## 🧠 What I Learned
 This project helped me master:
-- **Online chat structure** for managing resources and menu items.
+- **Online chat structure** Правильне написання коду для створення чатів.
 - **Server part making** Щоб клієнти могли отримувати повідомленя.
 - **CLient part making** Щоб клієнти моли відправляти один одному повідомлення.
 - **Code design** by separating logic into multiple files.
